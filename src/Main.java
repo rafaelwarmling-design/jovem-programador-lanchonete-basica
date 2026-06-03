@@ -15,7 +15,7 @@ public class Main {
         System.out.print("Digite o código do produto: ");
         int codigo = scan.nextInt();
 
-        System.out.print("Digite a quantidade: ");
+        System.out.print("Digite as quantidade: ");
         int quantidade = scan.nextInt();
 
         System.out.println("Categorias:");
